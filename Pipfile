@@ -9,6 +9,8 @@ scrapy-splash = "*"
 selenium = "*"
 webdriver-manager = "*"
 scrapy-selenium = "*"
+pymongo = "*"
+dnspython = "*"
 
 [dev-packages]
 autopep8 = "*"
