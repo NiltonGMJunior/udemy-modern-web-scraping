@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 scrapy = "*"
 scrapy-splash = "*"
+selenium = "*"
+webdriver-manager = "*"
+scrapy-selenium = "*"
 
 [dev-packages]
 autopep8 = "*"
