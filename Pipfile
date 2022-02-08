@@ -11,6 +11,7 @@ webdriver-manager = "*"
 scrapy-selenium = "*"
 pymongo = "*"
 dnspython = "*"
+scrapy-cloudflare-middleware = "*"
 
 [dev-packages]
 autopep8 = "*"
